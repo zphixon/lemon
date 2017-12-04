@@ -1,5 +1,5 @@
 
-# [lemon tuesday countdown](http://cheezgi.com/lemon/)
+# lemon tuesday countdown
 
 Lemon Tuesday originates from when the first lemon tree bore the first lemon on
 the third Tuesday of February, though because of polar shifting and leap years
